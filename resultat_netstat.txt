@@ -1,0 +1,13 @@
+Connexions Internet actives (serveurs et établies)
+Proto Recv-Q Send-Q Adresse locale          Adresse distante        Etat       PID/Program name    
+tcp        0      0 127.0.0.53:53           0.0.0.0:*               LISTEN      4961/systemd-resolv 
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN      694/sshd            
+tcp        0      0 127.0.0.1:631           0.0.0.0:*               LISTEN      22886/cupsd         
+tcp        0      0 192.168.1.60:36320      216.58.206.226:443      TIME_WAIT   -                   
+tcp        0      0 192.168.1.60:44830      198.252.206.25:443      ESTABLISHED 11807/firefox       
+tcp        0      0 192.168.1.60:37636      52.38.35.234:443        ESTABLISHED 11807/firefox       
+udp        0      0 0.0.0.0:48439           0.0.0.0:*                           528/avahi-daemon: r 
+udp        0      0 127.0.0.53:53           0.0.0.0:*                           4961/systemd-resolv 
+udp        0      0 0.0.0.0:68              0.0.0.0:*                           718/dhclient        
+udp        0      0 0.0.0.0:631             0.0.0.0:*                           22887/cups-browsed  
+udp        0      0 0.0.0.0:5353            0.0.0.0:*                           528/avahi-daemon: r 
